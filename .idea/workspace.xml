@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9601d6ed-9010-4172-9e76-19419c703edb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4" />
+  <component name="ProjectId" id="1ivPhnnmTTTZMpNUbwh7v8q1pri" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\XAMPP\htdocs\learning\assets" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\XAMPP\htdocs\learning\styles" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9601d6ed-9010-4172-9e76-19419c703edb" name="Default Changelist" comment="" />
+      <created>1602785223972</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602785223972</updated>
+      <workItem from="1602785227562" duration="1018000" />
+      <workItem from="1603476252771" duration="2637000" />
+      <workItem from="1603526284439" duration="1197000" />
+      <workItem from="1603636903684" duration="594000" />
+      <workItem from="1603729985717" duration="2480000" />
+      <workItem from="1604213955896" duration="12087000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="540" y="174" key="#CLI_Interpreters" timestamp="1604230296910">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="540" y="174" key="#CLI_Interpreters/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1604230296910" />
+    <state x="679" y="71" key="#PHP" timestamp="1604230300506">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="679" y="71" key="#PHP/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1604230300506" />
+    <state x="681" y="310" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604214105136">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="681" y="310" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1604214105136" />
+    <state x="794" y="443" key="NewPhpFileDialog" timestamp="1603730473287">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1603730473287" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1604229558675">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1604229558675" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1603476814555">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1603476814555" />
+  </component>
+</project>
