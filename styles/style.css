@@ -1,3 +1,30 @@
+/*add fonts*/
+@font-face {
+    font-family: CoreSansC;
+    src: url(../assets/fonts/CoreSansC-15Thin.ttf);
+    font-weight: 100;
+}
+@font-face {
+    font-family: CoreSansC;
+    src: url(../assets/fonts/CoreSansC-35Light.ttf);
+    font-weight: 200;
+}
+@font-face {
+    font-family: CoreSansC;
+    src: url(../assets/fonts/CoreSansC-45Regular.ttf);
+    font-weight: normal;
+}
+@font-face {
+    font-family: CoreSansC;
+    src: url(../assets/fonts/CoreSansC-55Medium.ttf);
+    font-weight: 500;
+}
+@font-face {
+    font-family: CoreSansC;
+    src: url(../assets/fonts/CoreSansC-65Bold.ttf);
+    font-weight: bold;
+}
+
 * {
     padding: 0;
     margin: 0;
@@ -15,16 +42,16 @@ body {
 .header-nav ul {
     display: flex;
     justify-content: center;
-    margin-bottom: 45px;
 }
 
 .header-nav__ul > li {
     list-style: none;
-    font-family: Georgia, serif;
+    font-family: CoreSansC, serif;
     font-style: normal;
     font-weight: normal;
-    font-size: 25px;
-    line-height: 28px;
+    font-size: 18px;
+    line-height: 18px;
+    margin-right: 53px;
 }
 
 .header-nav__ul > li a {
@@ -50,7 +77,7 @@ body {
 }
 
 .lyrics-text h2 {
-    font-family: Georgia, serif;
+    font-family: CoreSansC, serif;
     font-style: normal;
     font-weight: normal;
     font-size: 64px;
@@ -66,7 +93,7 @@ body {
     height: 60px;
     border: 3px solid #E1D6D5;
     box-sizing: border-box;
-    font-family: Georgia, serif;
+    font-family: CoreSansC, serif;
     font-style: normal;
     font-weight: normal;
     font-size: 25px;

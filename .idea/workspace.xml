@@ -1,7 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="9601d6ed-9010-4172-9e76-19419c703edb" name="Default Changelist" comment="" />
+    <list default="true" id="9601d6ed-9010-4172-9e76-19419c703edb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/fonts/CoreSansC-15Thin.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/CoreSansC-35Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/CoreSansC-45Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/CoreSansC-55Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/CoreSansC-65Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/favourites.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/style.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,24 +38,32 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4" />
   <component name="ProjectId" id="1ivPhnnmTTTZMpNUbwh7v8q1pri" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/assets" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\XAMPP\htdocs\learning\assets" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\XAMPP\htdocs\learning\styles" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\XAMPP\htdocs\learning\assets" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -43,12 +79,27 @@
       <workItem from="1603526284439" duration="1197000" />
       <workItem from="1603636903684" duration="594000" />
       <workItem from="1603729985717" duration="2480000" />
-      <workItem from="1604213955896" duration="12087000" />
+      <workItem from="1604213955896" duration="12557000" />
+      <workItem from="1604499879954" duration="3474000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="540" y="174" key="#CLI_Interpreters" timestamp="1604230296910">
@@ -59,14 +110,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="679" y="71" key="#PHP/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1604230300506" />
-    <state x="681" y="310" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604214105136">
+    <state x="681" y="310" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604241256226">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="681" y="310" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1604214105136" />
+    <state x="681" y="310" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1604241256226" />
     <state x="794" y="443" key="NewPhpFileDialog" timestamp="1603730473287">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1603730473287" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1604241483713">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1604241483713" />
     <state x="616" y="240" key="run.anything.popup" timestamp="1604229558675">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
